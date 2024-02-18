@@ -1,0 +1,20 @@
+{"input": "Speed control by variation of field flux results in\n(A) constant power drive.\n(B) constant torque drive.\n(C) variable power drive.\n(D) none of the above.", "output": "(A)"}
+{"input": "Stack is also known as\n(A) FIFO memory\n(B) Flash memory\n(C) LIFO memory\n(D) LILO memory", "output": "(C)"}
+{"input": "The ROM programmed during manufacturing process itself is called\n(A) MROM\n(B) PROM\n(C) EPROM\n(D) EEPROM", "output": "(A)"}
+{"input": "The concept of V/f control of inverters driving induction motors resuls in\n(A) constant torque operation\n(B) speed reversal\n(C) reduced magnetic loss\n(D) hormonic elimination", "output": "(A)"}
+{"input": "In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch\n(A) 10\n(B) 100\n(C) 50\n(D) 1", "output": "(A)"}
+{"input": "A diode (p-n junction) when reverse biased act as\n(A) On Switch\n(B) Zener diode\n(C) Capacitor\n(D) Off Switch", "output": "(D)"}
+{"input": "In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is\n(A) 0.\n(B) 0.5.\n(C) 1.\n(D) none of above.", "output": "(B)"}
+{"input": "The resistivity of the conductor depends on\n(A) area of the conductor.\n(B) length of the conductor.\n(C) type of material.\n(D) none of these.", "output": "(C)"}
+{"input": "Length of the cable is doubled, its capacitance C will be\n(A) one-fourth.\n(B) one-half.\n(C) doubled.\n(D) unchanged.", "output": "(C)"}
+{"input": "Induction heating takes place in\n(A) conducting but non-magnetic materials.\n(B) conducting materials which may be either magnetic or non-magentic materials.\n(C) insulating materials.\n(D) conducting and magnetic materials.", "output": "(B)"}
+{"input": "A null type instrument as compared to a deflected type instrument has\n(A) a lower sensitivity.\n(B) a faster response.\n(C) a higher accuracy.\n(D) all of the above.", "output": "(C)"}
+{"input": "Susceptibility is negative for\n(A) non magnetic substances.\n(B) diamagnetic substances.\n(C) ferromagnetic substances.\n(D) none of above.", "output": "(B)"}
+{"input": "Advantages of higher transmission voltage is/are\n(A) Power transfer capability of the transmission line is increased\n(B) Transmission line losses are reduced\n(C) Area of cross section and volume of the conductor is reduced\n(D) all of the above", "output": "(D)"}
+{"input": "A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is\n(A) 0.32.\n(B) 0.67.\n(C) 0.45.\n(D) 0.27.", "output": "(B)"}
+{"input": "The following are the necessary requirements of an oscillator\n(A) Amplitude stability\n(B) Frequency stability\n(C) Power stability\n(D) Both A and B", "output": "(D)"}
+{"input": "The number of rings in the Bohr model of any element is determined by what?\n(A) Column number on periodic table.\n(B) Atomic mass.\n(C) Row number on periodic table.\n(D) Atomic number.", "output": "(C)"}
+{"input": "Under over voltage condition impedance offered by the voltage clamping device is\n(A) high.\n(B) low.\n(C) moderate.\n(D) infinity.", "output": "(B)"}
+{"input": "A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is\n(A) 40π coulombs.\n(B) 80π coulombs.\n(C) 10π coulombs.\n(D) none of these.", "output": "(B)"}
+{"input": "Which of the following oscillators are used for low frequency (LF) applications\n(A) LC oscillators\n(B) RC oscillators\n(C) Both LC and RC Oscillators\n(D) nan", "output": "(B)"}
+{"input": "Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is\n(A) 500 MVA\n(B) 400 MVA\n(C) 125 MVA\n(D) 100 MVA", "output": "(A)"}

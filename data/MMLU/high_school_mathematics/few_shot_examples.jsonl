@@ -1,0 +1,4 @@
+{"input": "Five thousand dollars compounded annually at an $x\\%$ interest rate takes six years to double. At the same interest rate, how many years will it take $\\$300$ to grow to $\\$9600$?\n(A) 12\n(B) 1\n(C) 30\n(D) 5", "output": "(C)"}
+{"input": "The variable $x$ varies directly as the square of $y$, and $y$ varies directly as the cube of $z$. If $x$ equals $-16$ when $z$ equals 2, what is the value of $x$ when $z$ equals $\\frac{1}{2}$?\n(A) -1\n(B) 16\n(C) -\\frac{1}{256}\n(D) \\frac{1}{16}", "output": "(C)"}
+{"input": "Simplify and write the result with a rational denominator: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$\n(A) \\frac{3\\sqrt{3}}{3}\n(B) \\frac{1}{3}\n(C) \\sqrt{3}\n(D) \\frac{\\sqrt{3}}{3}", "output": "(D)"}
+{"input": "Ten students take a biology test and receive the following scores: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. What is the mean of the students’ test scores?\n(A) 55\n(B) 60\n(C) 62\n(D) 65", "output": "(D)"}

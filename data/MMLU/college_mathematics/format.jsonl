@@ -1,0 +1,5 @@
+{"input": "In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a\n(A) pair of points\n(B) circle\n(C) half-line\n(D) line", "output": "(D)"}
+{"input": "What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3?\n(A) 8/3\n(B) 16/3\n(C) 32/3\n(D) 104/105", "output": "(C)"}
+{"input": "k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen?\n(A) (9/10)^k\n(B) (1/10)^k\n(C) (k-1)/k\n(D) 1/10", "output": "(A)"}
+{"input": "Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true?\n(A) If A is true, then B is false.\n(B) If A is false, then B is false.\n(C) If A is false, then B is true.\n(D) Both A and B are true.", "output": "(B)"}
+{"input": "If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be\n(A) 8\n(B) 20\n(C) 30\n(D) 35", "output": "(D)"}

@@ -1,0 +1,4 @@
+{"input": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(B)"}
+{"input": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(C)"}
+{"input": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(A)"}
+{"input": "Find the characteristic of the ring 2Z.\n(A) 0\n(B) 3\n(C) 12\n(D) 30", "output": "(A)"}

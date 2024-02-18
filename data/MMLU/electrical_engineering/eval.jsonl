@@ -1,0 +1,20 @@
+{"input": "Which of these sets of logic gates are designated as universal gates?\n(A) NOR, NAND.\n(B) XOR, NOR, NAND.\n(C) OR, NOT, AND.\n(D) NOR, NAND, XNOR.", "output": "(A)"}
+{"input": "Which of the following is not a sinusoidal oscillator?\n(A) LC oscillator\n(B) RC phase shift oscillator\n(C) Relaxation oscillator\n(D) Crystal oscillator", "output": "(C)"}
+{"input": "The voltage induced in an inductor is represented as,\n(A) product of its inductance and current through it.\n(B) ratio of its inductance to current through it.\n(C) ratio of current through it to its inductance.\n(D) product of its inductance and rate of change of current through it.", "output": "(D)"}
+{"input": "Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be\n(A) 160 µF\n(B) 10 µF\n(C) 40 µF\n(D) 5 µF", "output": "(A)"}
+{"input": "Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be\n(A) 5 µF\n(B) 25 µF\n(C) 10 µF\n(D) 1 µF", "output": "(D)"}
+{"input": "Which of the following windings are necessary in case of all dc machines?\n(A) closed winding\n(B) lap winding\n(C) wave winding\n(D) open type winding", "output": "(A)"}
+{"input": "One of the following is the primary function of an oscillator\n(A) produces sinusoidal oscillations\n(B) generates non sinusoidal waveforms\n(C) generates sustained oscillations at a constant amplitude and specific frequency\n(D) none of the above", "output": "(C)"}
+{"input": "In 8085 name/names of the 16 bit registers is/are\n(A) stack pointer.\n(B) program counter.\n(C) both A and B.\n(D) none of these.", "output": "(C)"}
+{"input": "In electrical resistance welding material of electrode should have\n(A) higher electrical conductivities.\n(B) higher thermal conductivities.\n(C) sufficient strength to sustain high pressure at elevated temperatures.\n(D) all of above.", "output": "(D)"}
+{"input": "If holding current of a thyristor is 2 mA then latching current should be\n(A) 0.01 A.\n(B) 0.002 A.\n(C) 0.009 A.\n(D) 0.004 A.", "output": "(D)"}
+{"input": "The change of cross sectional area of conductor in magnetic field will affect\n(A) reluctance of conductor.\n(B) resistance of conductor.\n(C) (A) and (B) both in the same way.\n(D) none of above.", "output": "(C)"}
+{"input": "Power dissipation in ideal inductor is\n(A) Maximum\n(B) Minimum\n(C) Zero\n(D) A finite value", "output": "(C)"}
+{"input": "A three-state buffer has the following output states\n(A) 1, 0, float\n(B) High, Low, Float\n(C) Both A and B\n(D) Set, Reset, Halt", "output": "(C)"}
+{"input": "Colpitts oscillator is also called as\n(A) Tank circuit oscillator\n(B) LC oscillator\n(C) Resonant circuit oscillator\n(D) All of the above", "output": "(D)"}
+{"input": "What is the value of dielectric constant of air?\n(A) Less than 1\n(B) 0.\n(C) 1.\n(D) none of these.", "output": "(C)"}
+{"input": "Thin laminations are used in a machine in order to reduce\n(A) Eddy current losses\n(B) Hysteresis losses\n(C) Both A and B\n(D) Copper losses", "output": "(A)"}
+{"input": "How many bits are required to store one BCD digit ?\n(A) 1\n(B) 2\n(C) 3\n(D) 4", "output": "(D)"}
+{"input": "A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be\n(A) 500 Hz.\n(B) 250 Hz.\n(C) 400 Hz.\n(D) 625 Hz.", "output": "(B)"}
+{"input": "For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?\n(A) 111.9 ohm\n(B) 11.19 ohm\n(C) 108 ohm\n(D) 115 ohm", "output": "(A)"}
+{"input": "Purely mechanical instrument cannot be used for dynamic measurements because they have\n(A) high inertia.\n(B) higher response time.\n(C) large time constant.\n(D) all of the above.", "output": "(D)"}

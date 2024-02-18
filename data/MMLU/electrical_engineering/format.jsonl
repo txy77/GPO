@@ -1,0 +1,5 @@
+{"input": "A motor has a thermal heating time constant of 50 mm. When the motor runs continuous of full scale, its final temperature rise is 80° C, what would be the temperature rise after 1 hour, if the motor runs continuously on full load?\n(A) 55.9° C.\n(B) 58° C.\n(C) 56° C.\n(D) 60° C.", "output": "(A)"}
+{"input": "No load saturation characteristics are plotted between\n(A) no load voltage and field current\n(B) no load voltage and armature current\n(C) short circuit current and field current\n(D) short circuit current and armature current", "output": "(A)"}
+{"input": "A digital circuit that can store on bit is a\n(A) XOR gate\n(B) flip-flop\n(C) gate\n(D) registor", "output": "(B)"}
+{"input": "Which one of the following is not a vectored interrupt?\n(A) TRAP.\n(B) RST 7.5.\n(C) RST 6.5.\n(D) INTR.", "output": "(D)"}
+{"input": "Inside a hollow conducting sphere\n(A) electric field is zero.\n(B) electric field is a non zero constant.\n(C) electric field changes with magnitude of the charge given to the conductor.\n(D) electric field changes with distance from the center of the sphere.", "output": "(A)"}

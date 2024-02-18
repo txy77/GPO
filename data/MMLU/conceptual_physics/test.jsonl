@@ -1,0 +1,60 @@
+{"input": "A satellite in Earth orbit is above Earth’s\n(A) atmosphere\n(B) gravitational field\n(C) Both\n(D) Neither", "output": "(A)"}
+{"input": "Refraction occurs when a wave crosses a boundary and changes\n(A) speed and direction\n(B) intensity\n(C) frequency\n(D) amplitude", "output": "(A)"}
+{"input": "If the volume of an object were to double, with no change in mass, its density would\n(A) halve.\n(B) double.\n(C) be the same.\n(D) None of these.", "output": "(A)"}
+{"input": "Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased\n(A) speed\n(B) frequency\n(C) wavelength\n(D) All of these", "output": "(B)"}
+{"input": "Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is\n(A) zero\n(B) practically zero\n(C) appreciably weaker than at Earth’s surface\n(D) without a component of force along their circular path", "output": "(D)"}
+{"input": "Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased\n(A) speed\n(B) frequency\n(C) Both of these\n(D) Neither of these", "output": "(B)"}
+{"input": "The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per\n(A) day\n(B) month\n(C) year\n(D) None of these for the moon does not rotate about an axis", "output": "(B)"}
+{"input": "Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from\n(A) inside the spaceship.\n(B) Earth.\n(C) Both of these.\n(D) Neither of these.", "output": "(B)"}
+{"input": "The magnitude of the gravitational force on a satellite is constant if the orbit is\n(A) parabolic\n(B) circular\n(C) elliptical\n(D) All of these", "output": "(B)"}
+{"input": "If you were to travel at a speed close to the speed of light, you could notice that your own\n(A) mass changes.\n(B) pulse decreases.\n(C) Both of these.\n(D) Neither of these.", "output": "(D)"}
+{"input": "The component of velocity that can remain constant for a tossed baseball is\n(A) horizontal\n(B) vertical\n(C) Either of these\n(D) None of these", "output": "(A)"}
+{"input": "Shock waves are produced by waves of sound\n(A) overlapping one another\n(B) constructively interfering\n(C) moving slower than the source producing them\n(D) All of these", "output": "(D)"}
+{"input": "When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to\n(A) remain unchanged\n(B) decrease\n(C) increase\n(D) spread out uniformly", "output": "(C)"}
+{"input": "When light undergoes interference, it can sometimes\n(A) build up to more than the sum of amplitudes\n(B) cancel completely\n(C) Both of these\n(D) Neither of these", "output": "(B)"}
+{"input": "For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be\n(A) one-quarter the value for a tube open at both ends\n(B) one-half the value for a tube open at both ends\n(C) twice the value for a tube open at both ends\n(D) four times the value for a tube open at both ends", "output": "(B)"}
+{"input": "To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is\n(A) one-quarter.\n(B) one-half.\n(C) the same.\n(D) dependent on your distance from the mirror.", "output": "(B)"}
+{"input": "A magnetic force acting on a beam of electrons can change its\n(A) direction\n(B) energy\n(C) Both of these\n(D) Neither of these", "output": "(A)"}
+{"input": "When a model car speeds up to three times its original speed, its kinetic energy is\n(A) the same\n(B) twice as great\n(C) three times greater\n(D) None of these", "output": "(D)"}
+{"input": "The flight of a blimp best illustrates\n(A) Archimedes’ principle\n(B) Pascal’s principle\n(C) Bernoulli’s principle\n(D) Boyle’s law", "output": "(A)"}
+{"input": "In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is\n(A) half, 1 A\n(B) 2 A\n(C) Depends on which lamp is closer to the battery\n(D) Not enough information to say", "output": "(B)"}
+{"input": "In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is\n(A) 2mg\n(B) mg\n(C) mg/2\n(D) mg/4", "output": "(B)"}
+{"input": "An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it\n(A) increases.\n(B) decreases.\n(C) remains largely unchanged.\n(D) Need more information.", "output": "(B)"}
+{"input": "A step-up transformer in an electrical circuit can step up\n(A) voltage\n(B) energy\n(C) Both of these\n(D) Neither of these", "output": "(A)"}
+{"input": "A diffraction grating relies on light\n(A) interference\n(B) amplitudes\n(C) variations in brightness\n(D) being composed of photons", "output": "(A)"}
+{"input": "A completely submerged object always displaces its own\n(A) weight of fluid.\n(B) volume of fluid.\n(C) density of fluid.\n(D) All of these.", "output": "(B)"}
+{"input": "When a uranium nucleus undergoes fission the energy released is primarily in the form of\n(A) gamma radiation.\n(B) kinetic energy of fission fragments.\n(C) kinetic energy of ejected neutrons.\n(D) All of these about equally.", "output": "(B)"}
+{"input": "The impulse–momentum relationship is a direct result of Newton’s\n(A) first law\n(B) second law\n(C) third law\n(D) law of gravity", "output": "(B)"}
+{"input": "When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light\n(A) totally internally reflects\n(B) passes into the air above\n(C) is absorbed\n(D) None of these", "output": "(B)"}
+{"input": "The speed of sound is slightly greater on a\n(A) cold day\n(B) hot day\n(C) day with steady temperature\n(D) None of these", "output": "(B)"}
+{"input": "In a vacuum, an object has no\n(A) buoyant force\n(B) mass\n(C) weight\n(D) All of these", "output": "(A)"}
+{"input": "If you travel at high speed, then compared with your friends who “stay at home,” you are\n(A) older.\n(B) younger.\n(C) neither younger nor older.\n(D) longer.", "output": "(B)"}
+{"input": "Microscopic slush in water tends to make the water\n(A) more dense\n(B) less dense\n(C) more slippery\n(D) warmer", "output": "(A)"}
+{"input": "A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by\n(A) zero\n(B) minus 1\n(C) minus 2\n(D) plus 1", "output": "(A)"}
+{"input": "Sound travels in\n(A) solids\n(B) liquids\n(C) gases\n(D) All of these", "output": "(D)"}
+{"input": "Sound travels in air by a series of\n(A) compressions\n(B) rarefactions\n(C) Both of these\n(D) Neither of these", "output": "(C)"}
+{"input": "The complementary color of blue is\n(A) magenta\n(B) yellow\n(C) cyan\n(D) white", "output": "(B)"}
+{"input": "All parts of a laser beam have the same\n(A) frequency\n(B) phase\n(C) speed\n(D) All of these", "output": "(D)"}
+{"input": "When a proton is plucked from an atomic nucleus, the atom has a decrease in\n(A) charge\n(B) energy\n(C) mass\n(D) all of these", "output": "(D)"}
+{"input": "In his special theory of relativity, Einstein stated that the laws of physics are\n(A) different in different situations.\n(B) common sense applied to microscopic and macroscopic things.\n(C) the same in all frames of reference.\n(D) the same in all uniformly moving frames of reference.", "output": "(D)"}
+{"input": "When an increase in speed doubles the momentum of a moving body its kinetic energy\n(A) increases but less than doubles\n(B) doubles\n(C) more than doubles\n(D) depends on factors not stated", "output": "(C)"}
+{"input": "If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will\n(A) move at a constant speed in a straight line\n(B) accelerate at a constant rate in a straight line\n(C) come to rest\n(D) increase its amount of inertia", "output": "(A)"}
+{"input": "Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is\n(A) lower\n(B) higher\n(C) about the same\n(D) Can’t say", "output": "(A)"}
+{"input": "If the current in the filament of a lamp is 3 A, the current in the connecting wire is\n(A) less than 3 A\n(B) 3 A\n(C) more than 3 A\n(D) Not enough information to say", "output": "(B)"}
+{"input": "Interference is characteristic of\n(A) sound waves\n(B) light waves\n(C) water waves\n(D) All of these", "output": "(D)"}
+{"input": "At very high speeds, an object appears to an observer at rest to be\n(A) shorter in the direction of travel.\n(B) shrunken in all directions.\n(C) shorter in the direction perpendicular to travel.\n(D) longer in all directions.", "output": "(A)"}
+{"input": "If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?\n(A) Magnesium-22\n(B) Magnesium-20\n(C) Oxygen-18\n(D) Oxygen-16", "output": "(D)"}
+{"input": "Light reflecting from a smooth surface undergoes a change in\n(A) frequency.\n(B) wavelength.\n(C) All of these.\n(D) None of these.", "output": "(D)"}
+{"input": "Spectral lines of the elements are\n(A) chaotic\n(B) ordered\n(C) positioned by amplitude\n(D) in phase", "output": "(B)"}
+{"input": "Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball\n(A) is mg\n(B) is greater than mg always\n(C) may be greater or less than mg\n(D) is less than mg always", "output": "(B)"}
+{"input": "The principal source of Earth’s internal energy is\n(A) tidal friction\n(B) gravitational pressure\n(C) radioactivity\n(D) geothermal heat", "output": "(C)"}
+{"input": "The Doppler effect occurs when a source of sound moves\n(A) toward you\n(B) away from you\n(C) Both of these\n(D) None of these", "output": "(C)"}
+{"input": "The team that wins in a tug-of-war is the team that\n(A) produces more tension in the rope than the opponent\n(B) pushes hardest on the ground\n(C) Both\n(D) Neither", "output": "(B)"}
+{"input": "Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?\n(A) 1 minute.\n(B) 2 minutes.\n(C) 5 minutes.\n(D) 9 minutes.", "output": "(D)"}
+{"input": "Light that is not transmitted by opaque materials is\n(A) reflected or converted to internal energy in the material.\n(B) mainly reflected.\n(C) mainly refracted.\n(D) transmitted at a lower frequency.", "output": "(A)"}
+{"input": "The compressions and rarefactions in sound normally travel\n(A) in the same direction\n(B) in opposite directions\n(C) at right angles to each other\n(D) None of these", "output": "(A)"}
+{"input": "The surface of Planet Earth loses energy to outer space due mostly to\n(A) conduction.\n(B) convection.\n(C) radiation.\n(D) radioactivity.", "output": "(C)"}
+{"input": "When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal\n(A) amounts of force\n(B) accelerations\n(C) Both\n(D) Neither", "output": "(A)"}
+{"input": "During the time an aircraft produces a sonic boom the aircraft is\n(A) breaking the sound barrier\n(B) pulling out of a subsonic dive\n(C) flying faster than sound\n(D) Each of these produces a sonic boom", "output": "(C)"}
+{"input": "A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in\n(A) speed\n(B) momentum\n(C) Both\n(D) Neither", "output": "(A)"}
+{"input": "When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension\n(A) is mg\n(B) is greater than mg always\n(C) is less than mg always\n(D) may be greater or less than mg depending on the speed of the ball", "output": "(B)"}

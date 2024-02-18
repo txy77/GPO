@@ -1,0 +1,60 @@
+{"input": "A tank is in the shape of a triangular prism. If the triangular base has an area of 116 square feet, and the tank is 30 feet tall, how much water would the tank contain when it is full?\n(A) 1725 ft^3\n(B) 1740 ft^3\n(C) 3480 ft^3\n(D) 6960 ft^3", "output": "(C)"}
+{"input": "If a freight train travels at a speed of 20 miles per hour for 6 hours, how far will it travel?\n(A) 120 miles\n(B) 80 miles\n(C) 26 miles\n(D) 12 miles", "output": "(A)"}
+{"input": "Ty has 12 weeks to read a certain number of books. He will spend 2 weeks reading each book. Which expression can Ty use to find the total number of books he will read?\n(A) 12 – 2\n(B) 12 + 12\n(C) 12 – 2 – 2 – 2\n(D) 12 – 2 – 2 – 2 – 2 – 2 – 2", "output": "(D)"}
+{"input": "Erin made 12 pints of juice. She drinks 3 cups of juice each day. How many days will Erin take to drink all of the juice she made?\n(A) 2 days\n(B) 4 days\n(C) 8 days\n(D) 9 days", "output": "(C)"}
+{"input": "What is the greatest common factor of 36 and 90?\n(A) 6\n(B) 18\n(C) 36\n(D) 180", "output": "(B)"}
+{"input": "The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2.3 centimeters?\n(A) 5.29\n(B) 6.9\n(C) 8.027\n(D) 12.167", "output": "(D)"}
+{"input": "Steve ordered plastic cases for storing his baseball cards. Each case has a length of 12 centimeters, a width of 6.5 centimeters, and a height of 1.25 centimeters. What is the volume, in cubic centimeters, of one baseball card case?\n(A) 39.5\n(B) 97.5\n(C) 118.5\n(D) 202.25", "output": "(B)"}
+{"input": "Find 1 over 6 + 1 over 8.\n(A) 7 over 24\n(B) 2 over 14\n(C) 1 over 7\n(D) 1 over 4", "output": "(A)"}
+{"input": "Point A and point B are placed on a numberline. Point A is located at -20 and point B is 5 less than point A. Which statement about point B is true?\n(A) It is located at -25 and is to the right of point A on the numberline.\n(B) It is located at -15 and is to the right of point A on the numberline.\n(C) It is located at -25 and is to the left of point A on the numberline.\n(D) It is located at -15 and is to the left of point A on the numberline.", "output": "(C)"}
+{"input": "A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?\n(A) 2\n(B) 3.6\n(C) 22.5\n(D) 63", "output": "(C)"}
+{"input": "A grocerystore sells a bag of 5 lemons for $2.00. What is the unit cost of each lemon in the bag?\n(A) $2.50 \n(B) $0.60 \n(C) $0.40 \n(D) $0.10 ", "output": "(C)"}
+{"input": "Simplify −4 + 7 • 3^2. Use a calculator, paper and pencil, or mental math.\n(A) 437\n(B) 27\n(C) 289\n(D) 59", "output": "(D)"}
+{"input": "A teacher has three packages of stickers. One package contains 56 stickers, another package contains 48 stickers, and the third package contains 58 stickers. If the teacher divides all the stickers equally among 27 students, how many stickers will each student receive?\n(A) 6 stickers\n(B) 9 stickers\n(C) 54 stickers\n(D) 81 stickers", "output": "(A)"}
+{"input": "Solve the equation v − 26 = 68.\n(A) −42\n(B) 42\n(C) 94\n(D) 88", "output": "(C)"}
+{"input": "Find the value of the expression −16 + 13 + (−33).\n(A) 4\n(B) 62\n(C) 36\n(D) −36", "output": "(D)"}
+{"input": "Find the quotient of 5.04/0.7\n(A) 0.72\n(B) 0.702\n(C) 10.0571\n(D) 7.2", "output": "(D)"}
+{"input": "Use the Associative Property of Multiplication to simplify 8 • (−7) • (−1).\n(A) −63\n(B) 56\n(C) 48\n(D) −56", "output": "(A)"}
+{"input": "What is the quotient of 1,224/9?\n(A) 135\n(B) 136\n(C) 1,215\n(D) 1,360", "output": "(B)"}
+{"input": "Estimate 153 + 44. The sum is between which numbers?\n(A) 100 and 299\n(B) 300 and 499\n(C) 500 and 699\n(D) 700 and 899", "output": "(A)"}
+{"input": "A school district is proposing a 5% increase in the number of days in a school year. Currently there are 180 days in a school year. How long would a school year be with the proposed increase?\n(A) 181 days\n(B) 183 days\n(C) 185 days\n(D) 189 days", "output": "(D)"}
+{"input": "Solve 13 over 4 = x over 7.\n(A) 22.75\n(B) 23.25\n(C) 24.25\n(D) none of these", "output": "(A)"}
+{"input": "−4 +  ( −3 )=\n(A) −7\n(B) −1\n(C) 1\n(D) 7", "output": "(A)"}
+{"input": "Which pair of expressions below are equivalent?\n(A) 7(2x) and 9x\n(B) 3x + 5x and 15x\n(C) 4(2x — 6) and 8x — 24\n(D) x+x+x+x and x^4", "output": "(C)"}
+{"input": "Use rounding to estimate the sum of 27.94 + 15.35 to the nearest tenth.\n(A) 43.2\n(B) 43.3\n(C) 43.4\n(D) 43.29", "output": "(B)"}
+{"input": "Which expression is equivalent to 5(6x + 3y)?\n(A) 11x + 3y\n(B) 11x + 8y\n(C) 30x + 3y\n(D) 30x + 15y", "output": "(D)"}
+{"input": "A shopping mall wants to conduct a survey of the people who shop at the mall. Which would give them the most representative sample?\n(A) conducting the survey at one shoe store\n(B) conducting the survey at all shoe stores\n(C) conducting the survey at the entrance to the mall\n(D) conducting the survey a mile away from the mall ", "output": "(C)"}
+{"input": "Find the number that makes the statement true: 0.32 g = _ cg.\n(A) 32\n(B) 3.2\n(C) 3,200\n(D) 320", "output": "(A)"}
+{"input": "Lily is going to give away all the pieces of candy in a bag. She can give an equal number of pieces of candy to 5, 3, or 2 people. Which number of pieces of candy could be in Lily’s bag?\n(A) 12\n(B) 20\n(C) 30\n(D) 45", "output": "(C)"}
+{"input": "A group of friends go out to lunch. d people buy salad and p people buy soup. Each salad costs $3.99 and each soup costs $2.99. Write an expression for the total costs of the soup and salads.\n(A) 3.99p + 2.99d\n(B) 2.99p + 3.99d\n(C) (2.99 + 3.99)(p + d)\n(D) (3.99p + 2.99)d", "output": "(B)"}
+{"input": "Write 7 over 33 as a decimal.\n(A) 0.021 repeating\n(B) 0.21 Repeating\n(C) 0.22 Repeating\n(D) 0.2121", "output": "(B)"}
+{"input": "At a bus station, buses begin their routes at 6:00 a.m. The schedule for two of the buses is based on the time intervals listed below.\n* Bus A has a long route and leavesthe station every 75 minutes.\n* Bus has a short route and leaves the station every 15 minutes.\nWhat is the next time Bus A and BusB will leave the bus station at the same time?\n(A) 7:00 a.m.\n(B) 7:15 a.m.\n(C) 7:30 a.m.\n(D) 8:30 a.m.", "output": "(B)"}
+{"input": "The first number in a number pattern is 28. The pattern rule is to add 14 to get the next number in the pattern. If the pattern continues, which statement is true?\n(A) All the numbers in the pattern can be divided equally by 10.\n(B) All the numbers in the pattern can be divided equally by 4.\n(C) All the numbers in the pattern can be divided equally by 8.\n(D) All the numbers in the pattern can be divided equally by 7.", "output": "(D)"}
+{"input": "A newspaper company sold 179,912 newspapers in one day. What is this number of newspapers written in word form?\n(A) one hundred seventy-nine thousand twelve\n(B) one hundred seventy-nine nine hundred twelve\n(C) one hundred seventy thousand nine hundred twelve\n(D) one hundred seventy-nine thousand nine hundred twelve", "output": "(D)"}
+{"input": "Write 8 and 2 over 4 as an improper fraction in simplest form.\n(A) 17 over 2\n(B) 34 over 4\n(C) 17 over 4\n(D) 19 over 2", "output": "(A)"}
+{"input": "Find the number that makes the statement 48 over 88 = ? over 11 true.\n(A) 6\n(B) 11\n(C) 8\n(D) 5", "output": "(A)"}
+{"input": "Which set of integers is in order from least to greatest?\n(A) −9, −6, −3, 7, 11\n(B) −3, −6, 7, 11, –9\n(C) 11, −9, 7, −6, −3\n(D) 7, 11, −6, −3, −9", "output": "(A)"}
+{"input": "Restate the expression 4(3 + 2) using the Distributive Property. Do not simplify.\n(A) 4(3) + 2\n(B) 4(3) + 4(2)\n(C) 20\n(D) 3 + 4(2)", "output": "(B)"}
+{"input": "Which statement is false?\n(A) 3 < 5\n(B) 5 > 3\n(C) −5 > −3\n(D) −3 > −5", "output": "(C)"}
+{"input": "In which set do all of the values make the inequality 2x — 1 < 10 true?\n(A) {10, 15, 20}\n(B) {5, 7, 9}\n(C) {4, 6, 8}\n(D) {2, 3, 4}", "output": "(D)"}
+{"input": "Mr. Lucci put together 5 bags of pens. He put 19 black pens and 12 red pens in each bag. Which expression shows the total number of pens Mr. Lucci put into bags?\n(A) (5 × 19) + 12\n(B) 5 × (19 + 12)\n(C) 5 + (19 × 12)\n(D) (5 + 19) × 12", "output": "(B)"}
+{"input": "Use the list of numbers: 22, 25, 14, 11, 23, 27, 46. What is the mode?\n(A) 23\n(B) 24\n(C) 35\n(D) No mode", "output": "(D)"}
+{"input": "When a certain number is divided by 4, the answer is 160 with a remainder of 2. What is the number?\n(A) 38\n(B) 42\n(C) 638\n(D) 642", "output": "(D)"}
+{"input": "If the value of x is between 0.0051 and 0.038, which of the following could be x?\n(A) 0.0042\n(B) 0.0261\n(C) 0.049\n(D) 0.052", "output": "(B)"}
+{"input": "Keri spent 3 hours on her homework. She spent equal amounts of time on all subjects. If Keri spent 1 over 2 hour on science, how many subjects did she study?\n(A) 4 subjects\n(B) 2 subjects\n(C) 6 subjects\n(D) 5 subjects", "output": "(C)"}
+{"input": "There are 20 students in Mr. Clark's fourth-grade class. There are 5 times as many students in the entire fourth grade as there are in Mr. Clark's class. Which equation can be used to determine the number of students, n, in the entire fourth grade?\n(A) 5xn= 20\n(B) 5+20=n\n(C) 20x5=n\n(D) 20/n=5", "output": "(C)"}
+{"input": "Write the prime factorization of 77. Use exponents where possible.\n(A) 7 • 11^2 • 13\n(B) 7^2 • 11\n(C) 7 • 11 • 13\n(D) 7 • 11", "output": "(D)"}
+{"input": "Find the product of 0.07 • 5.8.\n(A) 0.406\n(B) 0.0406\n(C) 4.06\n(D) 40.6", "output": "(A)"}
+{"input": "Find the mean of the set of data 18, 9, 9, 10, 11, 14, 30, 19.\n(A) 9\n(B) 15\n(C) 30\n(D) 11", "output": "(B)"}
+{"input": "Joe and Mike both ran the samerace. Joe finished the race 4 minutes before Mike. If Mike finished the race at 4:02 p.m., what time did Joe finish the race?\n(A) 3:58 p.m.\n(B) 4:06 p.m.\n(C) 8:02 p.m.\n(D) 12:02 p.m.", "output": "(A)"}
+{"input": "What is three fifth of 100?\n(A) 3\n(B) 5\n(C) 20\n(D) 60", "output": "(D)"}
+{"input": "Find the GCD of 25 and 55.\n(A) 5\n(B) 11\n(C) 50\n(D) 275", "output": "(A)"}
+{"input": "Find the value of 6 • 24 ÷ (8 − 5).\n(A) 48\n(B) 13\n(C) −13\n(D) 54", "output": "(A)"}
+{"input": "The state of Georgia has 159 counties and covers 58056 square miles. What is the average number of square miles per county? Round your answer to the nearest whole number.\n(A) 274 square miles per county\n(B) 159 square miles per county\n(C) 318 square miles per county\n(D) 365 square miles per county", "output": "(D)"}
+{"input": "Write 1 and 1 over 11 as a whole or mixed number in simplest form.\n(A) 1.1 over 11\n(B) 11 over 11\n(C) 12 over 11\n(D) 11 over 12", "output": "(C)"}
+{"input": "Find the value of the expression −25 − (−11).\n(A) −36\n(B) −14\n(C) 14\n(D) 36", "output": "(C)"}
+{"input": "What is the greatest common factor of 42 and 84?\n(A) 7\n(B) 21\n(C) 42\n(D) 84", "output": "(C)"}
+{"input": "Ms. Carter has 30 students in her classroom. She arranges them into 5 equal groups. Which expression represents how to find the number of students in each group?\n(A) 30+5\n(B) 30/5\n(C) 30-5\n(D) 30x5", "output": "(B)"}
+{"input": "Conor made 9 shapes with straws. Each shape had 5 straws. Conor used 15 more straws to make more shapes. Whatis the total number of straws Conor used to make all the shapes?\n(A) 20\n(B) 29\n(C) 45\n(D) 60", "output": "(D)"}
+{"input": "There were 6 rows of chairs set up for a meeting. Each row had 8 chairs. What was the total number of chairs set up for the meeting?\n(A) 14\n(B) 36\n(C) 48\n(D) 64", "output": "(C)"}
+{"input": "Which group of numbers is in order from least to greatest?\n(A) 0.25 1.6 1.0\n(B) 1.0 0.25 1.6\n(C) 0.25 1.0 1.6\n(D) 1.6 1.0 0.25", "output": "(C)"}

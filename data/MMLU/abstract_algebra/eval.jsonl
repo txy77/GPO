@@ -1,0 +1,20 @@
+{"input": "Statement 1 | If H is a subgroup of G and a belongs to G then |aH| = |Ha|. Statement 2 | If H is a subgroup of G and a and b belong to G, then aH and Hb are identical or disjoint.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(C)"}
+{"input": "Statement 1 | If G, H and K are groups of order 4, at least two of them are isomorphic. Statement 2 | If Z_r + Z_s is isomorphic to a subgroup Z_m + Z_n, then r divides m and s divides n.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(C)"}
+{"input": "Statement 1 | S_n is non-Abelian for all n >= 3. Statement 2 | If a is a permutation that is an m-cycle and b is a permutation that is an n-cycle, then |ab| = lcm(m,n).\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(C)"}
+{"input": "Statement 1 | Every permutation is a one-to-one function. Statement 2 | Every function is a permutation if and only if it is one to one.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(C)"}
+{"input": "Find the maximum possible order for an element of S_n for n = 10.\n(A) 6\n(B) 12\n(C) 30\n(D) 105", "output": "(C)"}
+{"input": "Statement 1 | 4x - 2 is irreducible over Z. Statement 2 | 4x - 2 is irreducible over Q.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(D)"}
+{"input": "(Z,*) is a group with a*b = a+b+1 for all a, b in Z. The inverse of a is\n(A) 0\n(B) -2\n(C) a-2\n(D) (2+a)*-1", "output": "(D)"}
+{"input": "Statement 1 | Every solvable group is of prime-power order. Statement 2 | Every group of prime-power order is solvable.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(D)"}
+{"input": "If (G, .) is a group such that (ab)^-1 = a^-1b^-1, for all a, b in G, then G is a/an\n(A) commutative semi group\n(B) abelian group\n(C) non-abelian group\n(D) None of these", "output": "(B)"}
+{"input": "Find the characteristic of the ring Z x Z.\n(A) 0\n(B) 3\n(C) 12\n(D) 30", "output": "(A)"}
+{"input": "Find the degree for the given field extension Q(sqrt(2)*sqrt(3)) over Q.\n(A) 0\n(B) 4\n(C) 2\n(D) 6", "output": "(C)"}
+{"input": "Let A and B be sets, f: A -> B and g: B -> A be functions such that for all a \\in A, g(f(a)) = a. Statement 1 | The function g must necessarily be injective. Statement 2 | The function g must necessarily be surjective.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(D)"}
+{"input": "Statement 1 | Some abelian group of order 45 has a subgroup of order 10. Statement 2 | A subgroup H of a group G is a normal subgroup if and only if thenumber of left cosets of H is equal to the number of right cosets of H.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(B)"}
+{"input": "Find the degree for the given field extension Q(sqrt(2) + sqrt(3)) over Q.\n(A) 0\n(B) 4\n(C) 2\n(D) 6", "output": "(B)"}
+{"input": "Find all zeros in the indicated finite field of the given polynomial with coefficients in that field. x^5 + 3x^3 + x^2 + 2x in Z_5\n(A) 0\n(B) 1\n(C) 0,1\n(D) 0,4", "output": "(D)"}
+{"input": "Find the order of the factor group (Z_11 x Z_15)/(<1, 1>)\n(A) 1\n(B) 2\n(C) 5\n(D) 11", "output": "(A)"}
+{"input": "Find the generator for the finite field Z_11.\n(A) 1\n(B) 2\n(C) 3\n(D) 4", "output": "(B)"}
+{"input": "A subset H of a group (G,*) is a group if\n(A) a,b in H=> a * b in H\n(B) a in H => a^-1 in H\n(C) a,b in H=> a * b^-1 in H\n(D) H contains the identity element", "output": "(C)"}
+{"input": "Statement 1 | If H is a subgroup of a group G and a belongs to G, then aH = Ha. Statement 2 | If H is normal of G and a belongs to G, then ah = ha for all h in H.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True", "output": "(B)"}
+{"input": "Which of the following statements is true?\n(A) Every equivalence relation is a partial-ordering relation.\n(B) Number of relations form A = {x, y, z} to B= (1, 2), is 64.\n(C) Empty relation _ is reflexive\n(D) Properties of a relation being symmetric and being un-symmetric are negative of each other.", "output": "(B)"}
