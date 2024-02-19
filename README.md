@@ -79,4 +79,4 @@ bash GPO.sh
 ```
 
 ## 🌟 Results
-The prompts optimized by our LLM-based prompt optimizer GPO are in the GPO_resuls.jsonl
+The prompts optimized by our LLM-based prompt optimizer GPO are in the **GPO_resuls.jsonl**
