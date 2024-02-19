@@ -44,7 +44,6 @@ _OPTIMIZER_TEMPERATURE = flags.DEFINE_float(
     "optimizer_temperature", 1.0, "temperature of optimizer"
 )
 
-# TODO: change this to define_list for multiple instruction
 _INITIAL_INSTRUCTION = flags.DEFINE_string(
     "initial_instruction",
     "Let's think step by step.",
@@ -121,7 +120,7 @@ _DECAY_STRATEGY = flags.DEFINE_string(
 
 _USE_WARMUP_STRATEGY = flags.DEFINE_bool(
     "use_warmup_strategy",
-    False, # {'-', 'fixed', 'bleu', 'bge', "edit_distance"}
+    False, 
     "Whether to use warmup strategy"
 )
 
@@ -139,7 +138,7 @@ _FINAL_STEP_SIZE = flags.DEFINE_integer(
 
 _UTIL_GRADIENT_NAME = flags.DEFINE_string(
     "util_gradient_name",
-    "-", # {"-", "feedback"}
+    "-",
     "The name of the utilize gradient to use for the optimization.",
 )
 
