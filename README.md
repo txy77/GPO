@@ -89,3 +89,18 @@ You can download the our immediate results from the [link](https://drive.google.
 ## 📮 Contact
                       
 If you have any questions for our paper or codes, please send an email to txy20010310@163.com.
+
+## 🐦 Citing
+
+Please cite the following paper if you find our code helpful.
+
+```bibtex
+@misc{tang2024unleashing,
+      title={Unleashing the Potential of Large Language Models as Prompt Optimizers: An Analogical Analysis with Gradient-based Model Optimizers}, 
+      author={Xinyu Tang and Xiaolei Wang and Wayne Xin Zhao and Siyuan Lu and Yaliang Li and Ji-Rong Wen},
+      year={2024},
+      eprint={2402.17564},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
